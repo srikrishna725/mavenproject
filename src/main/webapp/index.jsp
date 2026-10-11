@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<jsp:useBean id="u" class="com.untd.User"></jsp:useBean>  
+<jsp:useBean id="u" class="net.systemshub.User"></jsp:useBean>  
 <jsp:setProperty property="*" name="u"/>  
   
 Welcome  
